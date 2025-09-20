@@ -1523,6 +1523,114 @@
       "favorite": "false",
       "counter": 300,
       "replay": 0
+    },
+    {
+      "id": "1121430006",
+      "title": "Đầu Đường Xó Chợ",
+      "album": "Đánh Đổi",
+      "artist": "Obito ft Lăng LD",
+      "source": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/songs/dauduongxocho.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/imgs/dauduongxocho.jpg",
+      "duration": 229,
+      "favorite": "false",
+      "counter": 300,
+      "replay": 0
+    },
+    {
+      "id": "1121430007",
+      "title": "Survivor/I Will Survive",
+      "album": "Destiny's Child",
+      "artist": "Beyoncé",
+      "source": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/songs/survivor_iwillsurvive.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/imgs/survivor_iwillsurvive.jpg",
+      "duration": 229,
+      "favorite": "false",
+      "counter": 300,
+      "replay": 0
+    },
+    {
+      "id": "1121430008",
+      "title": "Hey Daddy(Daddy's Home)",
+      "album": "Unknown",
+      "artist": "Usher",
+      "source": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/songs/daddy'shome.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/imgs/daddy'shome.jpg",
+      "duration": 229,
+      "favorite": "false",
+      "counter": 300,
+      "replay": 0
+    },
+    {
+      "id": "1121430009",
+      "title": "Mind Games",
+      "album": "Unknown",
+      "artist": "Sickick",
+      "source": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/songs/mindgames.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/imgs/mindgames.jpg",
+      "duration": 229,
+      "favorite": "false",
+      "counter": 300,
+      "replay": 0
+    },
+    {
+      "id": "1121430010",
+      "title": "Nắng Có Mang Em Về",
+      "album": "Nắng Có Mang Em Về (QTrung Remix)",
+      "artist": "Shartnuss",
+      "source": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/songs/nangcomangemve.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/imgs/nangcomangemve.jpg",
+      "duration": 229,
+      "favorite": "false",
+      "counter": 300,
+      "replay": 0
+    },
+    {
+      "id": "1121430011",
+      "title": "Nắng Dưới Chân Mây",
+      "album": "Nắng Dưới Chân Mây(single)",
+      "artist": "Nguyễn Hữu Kha",
+      "source": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/songs/nangduoichanmay.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/imgs/nangduoichanmay.jpg",
+      "duration": 229,
+      "favorite": "false",
+      "counter": 300,
+      "replay": 0
+    },
+    {
+      "id": "1121430012",
+      "title": "Say Đắm Trong Lần Đầu",
+      "album": "Say Đắm Trong Lần Đầu(single)",
+      "artist": "Winno",
+      "source": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/songs/saydamtronglandau.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/imgs/saydamtronglandau.jpg",
+      "duration": 229,
+      "favorite": "false",
+      "counter": 300,
+      "replay": 0
+    },
+    {
+      "id": "1121430013",
+      "title": "So Well",
+      "album": "Unknown",
+      "artist": "Ân ngờ ft Notcool, Zer Nguyễn",
+      "source": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/songs/sowell.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/imgs/sowell.jpg",
+      "duration": 229,
+      "favorite": "false",
+      "counter": 300,
+      "replay": 0
+    },
+    {
+      "id": "1121430014",
+      "title": "Tránh Duyên",
+      "album": "Tránh Duyên(Single)",
+      "artist": "Đình dũng",
+      "source": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/songs/tranhduyen.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/imgs/tranhduyen.jpg",
+      "duration": 229,
+      "favorite": "false",
+      "counter": 300,
+      "replay": 0
     }
   ]
 }
