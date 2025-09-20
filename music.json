@@ -1526,18 +1526,6 @@
     },
     {
       "id": "1121430006",
-      "title": "Đầu Đường Xó Chợ",
-      "album": "Đánh Đổi",
-      "artist": "Obito ft Lăng LD",
-      "source": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/songs/dauduongxocho.mp3",
-      "image": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/imgs/dauduongxocho.jpg",
-      "duration": 229,
-      "favorite": "false",
-      "counter": 300,
-      "replay": 0
-    },
-    {
-      "id": "1121430007",
       "title": "Survivor/I Will Survive",
       "album": "Destiny's Child",
       "artist": "Beyoncé",
@@ -1549,7 +1537,7 @@
       "replay": 0
     },
     {
-      "id": "1121430008",
+      "id": "1121430007",
       "title": "Hey Daddy(Daddy's Home)",
       "album": "Unknown",
       "artist": "Usher",
@@ -1561,7 +1549,7 @@
       "replay": 0
     },
     {
-      "id": "1121430009",
+      "id": "1121430008",
       "title": "Mind Games",
       "album": "Unknown",
       "artist": "Sickick",
@@ -1573,7 +1561,7 @@
       "replay": 0
     },
     {
-      "id": "1121430010",
+      "id": "1121430009",
       "title": "Nắng Có Mang Em Về",
       "album": "Nắng Có Mang Em Về (QTrung Remix)",
       "artist": "Shartnuss",
@@ -1585,7 +1573,7 @@
       "replay": 0
     },
     {
-      "id": "1121430011",
+      "id": "1121430010",
       "title": "Nắng Dưới Chân Mây",
       "album": "Nắng Dưới Chân Mây(single)",
       "artist": "Nguyễn Hữu Kha",
@@ -1597,7 +1585,7 @@
       "replay": 0
     },
     {
-      "id": "1121430012",
+      "id": "1121430011",
       "title": "Say Đắm Trong Lần Đầu",
       "album": "Say Đắm Trong Lần Đầu(single)",
       "artist": "Winno",
@@ -1609,7 +1597,7 @@
       "replay": 0
     },
     {
-      "id": "1121430013",
+      "id": "1121430012",
       "title": "So Well",
       "album": "Unknown",
       "artist": "Ân ngờ ft Notcool, Zer Nguyễn",
@@ -1621,7 +1609,7 @@
       "replay": 0
     },
     {
-      "id": "1121430014",
+      "id": "1121430013",
       "title": "Tránh Duyên",
       "album": "Tránh Duyên(Single)",
       "artist": "Đình dũng",
