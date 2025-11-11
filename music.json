@@ -575,6 +575,18 @@
       "favorite": "false",
       "counter": 300,
       "replay": 0
+    },
+    {
+      "id": "000049",
+      "title": "Buông Đôi Tay Nhau Ra",
+      "album": "m-tp",
+      "artist": "Sơn Tùng M-TP",
+      "source": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/songs/buongdoitaynhaura.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/imgs/buongdoitaynhaura.jpg",
+      "duration": 300,
+      "favorite": "false",
+      "counter": 300,
+      "replay": 0
     }
   ]
 }
