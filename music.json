@@ -587,6 +587,90 @@
       "favorite": "false",
       "counter": 300,
       "replay": 0
+    },
+    {
+      "id": "000050",
+      "title": "Va Vào Giai Điệu Này",
+      "album": "99%",
+      "artist": "MCK",
+      "source": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/songs/vavaogiaidieunay.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/imgs/vavaogiaidieunay.jpg",
+      "duration": 300,
+      "favorite": "false",
+      "counter": 300,
+      "replay": 0
+    },
+    {
+      "id": "000051",
+      "title": "Thôi Em Đừng Đi",
+      "album": "99%",
+      "artist": "MCK",
+      "source": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/songs/thoiemdungdi.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/imgs/thoiemdungdi.jpg",
+      "duration": 300,
+      "favorite": "false",
+      "counter": 300,
+      "replay": 0
+    },
+    {
+      "id": "000052",
+      "title": "Lỡ Say Bye Là Bye",
+      "album": "Unknown",
+      "artist": "Changg ft Lemese",
+      "source": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/songs/losaybyelabye.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/imgs/losaybyelabye.jpg",
+      "duration": 300,
+      "favorite": "false",
+      "counter": 300,
+      "replay": 0
+    },
+    {
+      "id": "000053",
+      "title": "Em Là Hoàng Hôn",
+      "album": "Unknown",
+      "artist": "Vang ft Cloud 5",
+      "source": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/songs/emlahoanghon.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/imgs/emlahoanghon.jpg",
+      "duration": 300,
+      "favorite": "false",
+      "counter": 300,
+      "replay": 0
+    },
+    {
+      "id": "000054",
+      "title": "Vườn Mây Vừa Hay",
+      "album": "Vườn Mây Vừa Hay(Single)",
+      "artist": "Ân Ngờ ft MYLINA",
+      "source": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/songs/vuonmayvuahay.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/imgs/vuonmayvuahay.jpg",
+      "duration": 300,
+      "favorite": "false",
+      "counter": 300,
+      "replay": 0
+    },
+    {
+      "id": "000055",
+      "title": "Heat Waves",
+      "album": "Dreamland",
+      "artist": "Glass Animals",
+      "source": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/songs/heatwaves.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/imgs/heatwaves.jpg",
+      "duration": 300,
+      "favorite": "false",
+      "counter": 300,
+      "replay": 0
+    },
+    {
+      "id": "000056",
+      "title": "Nghe Kể Năm 90s",
+      "album": "EP Này Hay",
+      "artist": "Ân Ngờ ft Suzie MK",
+      "source": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/songs/nghekenam90s.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/imgs/nghekenam90s.jpg",
+      "duration": 300,
+      "favorite": "false",
+      "counter": 300,
+      "replay": 0
     }
   ]
 }
