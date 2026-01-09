@@ -671,6 +671,18 @@
       "favorite": "false",
       "counter": 300,
       "replay": 0
+    },
+    {
+      "id": "000057",
+      "title": "Love Me Not",
+      "album": "Bird's Eye (2024)",
+      "artist": "Ravyn Lenae",
+      "source": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/songs/lovemenot.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/trungthuat2711/my-music-app@main/assets/imgs/lovemenot.jpg",
+      "duration": 300,
+      "favorite": "false",
+      "counter": 300,
+      "replay": 0
     }
   ]
 }
